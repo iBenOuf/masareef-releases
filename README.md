@@ -1,6 +1,6 @@
 # Masareef
 
-Version 1.7.0
+Version 1.8.0
 
 A simple app for tracking your money — accounts, spending, budgets and debts.
 
